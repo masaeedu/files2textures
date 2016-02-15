@@ -1,0 +1,8 @@
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\bin\Debug\Files2Textures.dll
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\bin\Debug\Files2Textures.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\obj\Debug\Files2Textures.dll
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\obj\Debug\Files2Textures.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\bin\Debug\Magick.NET-Q16-x64.dll
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\bin\Debug\Magick.NET-Q16-x64.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\bin\Debug\Magick.NET-Q16-x64.xml
+E:\depot\untracked\codementor_textures\Files2Textures\Files2Textures\obj\Debug\Files2Textures.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\Assembly-CSharp.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\Assembly-CSharp.pdb
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\Files2Textures.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\Magick.NET-Q16-x64.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEditor.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEngine.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEngine.Networking.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEngine.UI.dll
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEngine.xml
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEngine.UI.xml
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEngine.Networking.xml
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\UnityEditor.xml
+E:\depot\untracked\codementor_textures\unity\main\bin\x64\Debug\Files2Textures.pdb
+E:\depot\untracked\codementor_textures\unity\main\obj\x64\Debug\main.CSharp.csprojResolveAssemblyReference.cache
+E:\depot\untracked\codementor_textures\unity\main\obj\x64\Debug\Assembly-CSharp.dll
+E:\depot\untracked\codementor_textures\unity\main\obj\x64\Debug\Assembly-CSharp.pdb

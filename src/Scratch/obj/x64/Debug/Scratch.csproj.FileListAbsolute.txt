@@ -1,0 +1,12 @@
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Scratch.exe.config
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Scratch.exe
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Scratch.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Files2Textures.dll
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Magick.NET-Q16-x64.dll
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Files2Textures.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Magick.NET-Q16-x64.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Magick.NET-Q16-x64.xml
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\obj\x64\Debug\Scratch.csprojResolveAssemblyReference.cache
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\obj\x64\Debug\Scratch.exe
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\obj\x64\Debug\Scratch.pdb
+E:\depot\untracked\codementor_textures\Files2Textures\Scratch\bin\x64\Debug\Magick.NET-Q16-x64.Native.dll
